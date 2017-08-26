@@ -1,0 +1,2 @@
+# HYRPageControl
+自定义UIPageControl圆点大小图片和间距
